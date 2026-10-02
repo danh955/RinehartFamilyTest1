@@ -1,0 +1,8 @@
+baseURL = 'http://rinehartfamily.com'
+locale = 'en-us'
+title = 'Rinehart Family'
+theme = 'hugo-book'
+
+# Required for mermaid and katex shortcodes
+[markup.goldmark.renderer]
+  unsafe = true
